@@ -1,2 +1,2 @@
-# ARCHO-interialdesign
+# ARCHO
 Interial Design Web Site
